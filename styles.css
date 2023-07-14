@@ -1,3 +1,10 @@
 h1 {
     text-align: center;
 }
+
+.recipe-photo {
+    display: block;
+    width: 500px;
+    height: auto;
+    margin: auto;
+}
