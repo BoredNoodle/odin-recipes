@@ -3,6 +3,10 @@ h3 {
     text-align: center;
 }
 
+#menu {
+    list-style-type: none;
+}
+
 .recipe-photo {
     display: block;
     width: 500px;
